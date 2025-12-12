@@ -16,7 +16,7 @@ The website was done using only:
 
 ## Link to Website (hosted with GitHub Pages)
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 - Live Site URL: https://cristian-nastase.github.io/FrontendMentor-Article-preview-component/
 
 
