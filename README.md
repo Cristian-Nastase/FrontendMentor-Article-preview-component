@@ -10,9 +10,15 @@ The website was done using only:
 - Mobile-first workflow
 - JavaScript Event Handlers
 
+## Screenshot
+
+![](images/website-screenshot.png)
+
 ## Link to Website (hosted with GitHub Pages)
 
-*https://cristian-nastase.github.io/FrontendMentor-Four-card-feature-section/*
+- Solution URL: 
+- Live Site URL: https://cristian-nastase.github.io/FrontendMentor-Article-preview-component/
+
 
 ## Author
 - GitHub: https://github.com/Cristian-Nastase
